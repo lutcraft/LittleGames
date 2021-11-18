@@ -7,7 +7,7 @@ int main(int argc, char const* argv[])
     float g = 0.5;
     float vy = 0;
     float vx = 20;
-    float y = 300;
+    float y = 0;
     float x = 300;
     float zuli = 0.9;
     while (true)
