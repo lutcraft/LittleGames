@@ -7,7 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1FallingBalls", "1FallingBa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0Hello", "0Hello\0Hello.vcxproj", "{C8D12C20-1CC4-4C83-B2F6-8C2777D341A1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DontTouchBlock", "DontTouchBlock\DontTouchBlock.vcxproj", "{7FA4E70C-F727-4C0B-B015-67CFBF323F7B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2DontTouchBlock", "2DontTouchBlock\2DontTouchBlock.vcxproj", "{7FA4E70C-F727-4C0B-B015-67CFBF323F7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
